@@ -1,2 +1,0 @@
-# cotizador
-cotizador max
